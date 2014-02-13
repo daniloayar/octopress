@@ -3,7 +3,7 @@ layout: post
 title: "get your flow on"
 date: 2012-09-27 02:44
 comments: true
-categories: 
+categories: musing
 ---
 *Achtung!* There has been a significant change in your peripheral vision. Your curiosity judges this change monumental enough to break your focus, take command of your motor functions, and haul your line of sight a few degrees to the left. Your eyes settle upon the digital clock, which has just “struck” 12:00. It must have lost power — that can’t be right. Can it? As your mind returns to this world, you realize that you haven’t had dinner or even left your chair for over 6 hours. You then examine the extraordinary amount accomplished during this time and are overrun with feelings of pride and satisfaction.
 

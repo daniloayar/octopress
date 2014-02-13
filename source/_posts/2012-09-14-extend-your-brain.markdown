@@ -3,7 +3,7 @@ layout: post
 title: "extend your brain"
 date: 2012-09-14 09:14
 comments: true
-categories: 
+categories: musing
 ---
 It was 54 paces from the school entrance to my second grade classroom. What was the outcome of that design meeting last week? I am sometimes astonished by the insignificant things I remember. More often, I’m frustrated by the useful things I don’t. I know that the information was once accessible, and maybe it is still buried in my brain somewhere, indefinitely marooned. It’s as if my brain has surreptitiously implemented a self-sabotaging eviction policy.
 
