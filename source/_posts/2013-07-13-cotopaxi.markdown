@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "cotopaxi"
+title: "cotopaxi, ecuador"
 date: 2013-07-13 01:15
 comments: true
-categories: 
+categories: mountain
 ---
 <a href="http://farm8.staticflickr.com/7419/12496194043_55ed4b96eb_o.jpg">
   {% img http://farm8.staticflickr.com/7419/12496194043_9ff1d2a042_c.jpg View of Cotopaxi from Rucu Pichincha %}
 </a>
+
+Cotopaxi, with the city of Quito in the foreground, shot from Rucu Pichinca.
 
 
 <a href="http://farm6.staticflickr.com/5501/12496612894_81aa181a12_o.jpg">
@@ -25,3 +27,5 @@ categories:
 <a href="http://farm6.staticflickr.com/5537/12496254503_008ce0c2dd_o.jpg">
   {% img http://farm6.staticflickr.com/5537/12496254503_cacb330903_c.jpg Mike crossing the ladder in strong winds %}
 </a>
+
+<iframe width="800" height="600" src="//www.youtube.com/embed/v6CJb_EYtFM" frameborder="0" allowfullscreen></iframe>
