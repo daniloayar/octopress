@@ -1,0 +1,27 @@
+---
+layout: post
+title: "cotopaxi"
+date: 2013-07-13 01:15
+comments: true
+categories: 
+---
+<a href="http://farm8.staticflickr.com/7419/12496194043_55ed4b96eb_o.jpg">
+  {% img http://farm8.staticflickr.com/7419/12496194043_9ff1d2a042_c.jpg View of Cotopaxi from Rucu Pichincha %}
+</a>
+
+
+<a href="http://farm6.staticflickr.com/5501/12496612894_81aa181a12_o.jpg">
+  {% img http://farm6.staticflickr.com/5501/12496612894_d7a88598a7_c.jpg icy! %}
+</a>
+
+<a href="http://farm4.staticflickr.com/3778/12496612004_74c51c87ee_o.jpg">
+  {% img http://farm4.staticflickr.com/3778/12496612004_5a7d45a952_c.jpg Mike and Richard at our high point %}
+</a>
+
+<a href="http://farm3.staticflickr.com/2848/12496136795_737304f09c_o.jpg">
+  {% img http://farm3.staticflickr.com/2848/12496136795_e79a8858f3_c.jpg ladder crossing %}
+</a>
+
+<a href="http://farm6.staticflickr.com/5537/12496254503_008ce0c2dd_o.jpg">
+  {% img http://farm6.staticflickr.com/5537/12496254503_cacb330903_c.jpg Mike crossing the ladder in strong winds %}
+</a>
