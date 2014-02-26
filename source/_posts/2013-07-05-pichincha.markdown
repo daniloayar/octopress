@@ -5,6 +5,8 @@ date: 2013-07-05 01:53
 comments: true
 categories: mountain
 ---
+Overview: <a href="http://www.summitpost.org/guagua-rucu-pichincha/150303">http://www.summitpost.org/guagua-rucu-pichincha/150303</a> <br />
+Route: Rucu via Teleferico <br />
 
 <a href="http://farm4.staticflickr.com/3685/12649848143_ca99d62f13_o.jpg">
   {% img http://farm4.staticflickr.com/3685/12649848143_8a0a7c729b_c.jpg Rucu Pichincha %}
@@ -44,4 +46,4 @@ Rucu Pichincha, just next to Quito.
   {% img http://farm3.staticflickr.com/2868/12649953013_387af03f50_c.jpg Return to camp %}
 </a>
 
-<iframe width="800" height="600" src="//www.youtube.com/embed/FXooztZOUJ4" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/FXooztZOUJ4?rel=0" frameborder="0" allowfullscreen></iframe>

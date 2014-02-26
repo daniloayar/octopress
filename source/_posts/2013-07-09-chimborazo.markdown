@@ -5,6 +5,9 @@ date: 2013-07-09 01:53
 comments: true
 categories: mountain
 ---
+Overview: <a href="http://www.summitpost.org/chimborazo/150349">http://www.summitpost.org/chimborazo/150349</a> <br />
+Route: El Castillo <br />
+
 <a href="http://farm8.staticflickr.com/7362/12649348783_340aff41ed_o.jpg">
   {% img http://farm8.staticflickr.com/7362/12649348783_c04c0ea56b_c.jpg Chimborazo %}
 </a>
@@ -31,4 +34,4 @@ Chimborazo, the farthest point from the earth's center.
   {% img http://farm4.staticflickr.com/3766/12649373023_133ff054b3_c.jpg Memorials on the path to Whymper Hut %}
 </a>
 
-<iframe width="800" height="600" src="//www.youtube.com/embed/4jV6PeSxpnM" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/4jV6PeSxpnM?rel=0" frameborder="0" allowfullscreen></iframe>
